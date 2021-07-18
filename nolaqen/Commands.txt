@@ -1,0 +1,11 @@
+
+ git checkout -b branch-name // create new branch
+git add .
+ git commit -m massage   //important
+git push origin branch-naam
+
+
+
+// download updates(you must make pull from last branch before work)
+
+git pull origin branch-name
